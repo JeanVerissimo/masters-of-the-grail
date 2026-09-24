@@ -41,7 +41,7 @@
     "@types/react-dom": "^19.0.0",
     "@types/ws": "^8.0.0",
     "@vitejs/plugin-react": "^5.0.0",
-    "concurrently": "^9.0.0",
+    "concurrently": "^10.0.5",
     "eslint": "^10.11.0",
     "prettier": "^3.0.0",
     "tsup": "^8.0.0",
